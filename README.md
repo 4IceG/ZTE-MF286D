@@ -1,5 +1,6 @@
 # ZTE-MF286D
 My compilation with LuCI (Master / OpenWrt SNAPSHOT)
+
 I added presets for my packages (luci-app-3ginfo-lite/luci-app-sms-tool/luci-app-lite-watchdog).
 
 All you need to do is change the apn (for qmi in LuCI) and set up wi-fi.
