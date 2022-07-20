@@ -13,7 +13,7 @@ All you need to do is change the apn (for qmi in LuCI) and set up wi-fi.
 I am preparing new package for this router.... work in progress....
 
 ``` bash
-Packages available in the image at this time:
+LuCI packages available in the image at this time:
 luci-app-3ginfo-lite
 luci-app-adblock
 luci-app-atinout-mod
