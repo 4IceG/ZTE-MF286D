@@ -32,12 +32,13 @@ My compilation with LuCI (Openwrt-22.03 SNAPSHOT)
    
    ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/4.PNG?raw=true)
    
-   Go to the at command tab and select APN Setup from the drop-down menu.
+   Go to the at command tab and select APN setup from the drop-down menu.
    We enter the apn of our operator and click on the button that sends the command.
    
    ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/5.PNG?raw=true)
    
    Now we restart the modem so that the modem starts up with the new apn.
+   
    
    ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/6.PNG?raw=true)
 
