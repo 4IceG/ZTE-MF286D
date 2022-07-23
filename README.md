@@ -6,13 +6,47 @@ My compilation with LuCI (Openwrt-22.03 SNAPSHOT)
 ![GitHub forks](https://img.shields.io/github/forks/4IceG/ZTE-MF286D?style=flat-square)
 ![GitHub All Releases](https://img.shields.io/github/downloads/4IceG/ZTE-MF286D/total)
 
-I added presets for my packages (luci-app-3ginfo-lite/luci-app-sms-tool/luci-app-lite-watchdog).
+> I added presets for my packages (luci-app-3ginfo-lite/luci-app-sms-tool/luci-app-lite-watchdog).
 
-All you need to do is change the apn (for qmi in LuCI) and set up wi-fi.
+> All you need to do is change the apn (for qmi in LuCI) and set up wi-fi.
 
-I am preparing new package for this router.... work in progress....
+
+
+### Internet connection setup | Change of apn for mobile internet operator
+<details>
+   <summary>Pokaż | Show me</summary>
+    We go in the menu to Network \ Interfaces.
+    
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/1.PNG?raw=true)
+   
+   For the QMI protocol, go to the settings by clicking the Edit button.
+   
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/2.PNG?raw=true)
+   
+   Enter the apn name of internet provider and click save.
+   
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/3.PNG?raw=true)
+   
+   If after changing the apn we do not have internet, we have to manually set the apn in the modem. 
+   To do this, go to the Modem \ SMS Messages menu.
+   
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/4.PNG?raw=true)
+   
+   Go to the at command tab and select APN Setup from the drop-down menu.
+   We enter the apn of our operator and click on the button that sends the command.
+   
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/5.PNG?raw=true)
+   
+   Now we restart the modem so that the modem starts up with the new apn.
+   
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/6.PNG?raw=true)
+
+</details>
 
 ``` bash
+P.S.
+I am preparing new package for this router.... work in progress....
+
 LuCI packages available in the image at this time:
 luci-app-3ginfo-lite
 luci-app-adblock
