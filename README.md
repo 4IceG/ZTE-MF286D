@@ -17,30 +17,29 @@ My compilation with LuCI (Openwrt-22.03 SNAPSHOT)
    <summary>Pokaż | Show me</summary>
     We go in the menu to Network \ Interfaces.
     
-   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/1.PNG?raw=true)
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorialsm/1.PNG?raw=true)
    
    For the QMI protocol, go to the settings by clicking the Edit button.
    
-   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/2.PNG?raw=true)
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorialsm/2.PNG?raw=true)
    
    Enter the apn name of internet provider and click save.
    
-   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/3.PNG?raw=true)
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorialsm/3.PNG?raw=true)
    
    If after changing the apn we do not have internet, we have to manually set the apn in the modem. 
    To do this, go to the Modem \ SMS Messages menu.
    
-   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/4.PNG?raw=true)
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorialsm/4.PNG?raw=true)
    
    Go to the at command tab and select APN setup from the drop-down menu.
-   We enter the apn of our operator and click on the button that sends the command.
+   Enter the apn of internet operator and click on the button that sends the command.
    
-   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/5.PNG?raw=true)
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorialsm/5.PNG?raw=true)
    
    Now we restart the modem so that the modem starts up with the new apn.
    
-   
-   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorial/6.PNG?raw=true)
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorialsm/6.PNG?raw=true)
 
 </details>
 
