@@ -44,9 +44,6 @@ My compilation with LuCI (Openwrt-22.03 SNAPSHOT)
 </details>
 
 ``` bash
-P.S.
-I am preparing new package for this router.... work in progress....
-
 LuCI packages available in the image at this time:
 luci-app-3ginfo-lite
 luci-app-adblock
