@@ -1,5 +1,5 @@
 # ZTE-MF286D
-My compilation with LuCI (Openwrt-22.03 SNAPSHOT)
+My compilation with LuCI (Master Openwrt SNAPSHOT)
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/4IceG/ZTE-MF286D?style=flat-square)
 ![GitHub stars](https://img.shields.io/github/stars/4IceG/ZTE-MF286D?style=flat-square)
