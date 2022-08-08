@@ -63,6 +63,7 @@ luci-app-opkg
 luci-app-p910nd
 luci-app-sms-tool
 luci-app-vpnbypass
+luci-app-watchcat
 luci-app-wifischedule
 luci-app-wireguard
 luci-app-wrtbwmon
