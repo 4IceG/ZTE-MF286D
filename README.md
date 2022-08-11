@@ -43,6 +43,27 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 
 </details>
 
+### Useful AT commands (also available in the built image)
+<details>
+   <summary>Pokaż | Show me</summary>
+   
+``` bash
+APN info ➜ AT+CGDCONT?;AT+CGDCONT?
+APN setup ➜ AT+CGDCONT=1,"IP","internet","",0,0;AT+CGDCONT=1,"IP","internet","",0,0
+APN apply ➜ AT+CGACT=1,1;AT+CGACT=1,1
+Cell lock info ➜ AT+ZLOCKCELL?;AT+ZLOCKCELL?
+Cell lock disabled ➜ AT+ZLOCKCELL=0;AT+ZLOCKCELL=0
+Cell lock ➜ AT+ZLOCKCELL=earfcn_tag,pci_tag;AT+ZLOCKCELL=AAAA,BBB
+DL CA info ➜ AT+ZCAINFO?;AT+ZCAINFO?
+UL CA info ➜ AT+ZULCA?;AT+ZULCA?
+UL CA disabled ➜ AT+ZULCA=0;AT+ZULCA=0
+UL CA enabled ➜ AT+ZULCA=1;AT+ZULCA=1
+Locked band info ➜ AT+ZNLOCKBAND?;AT+ZNLOCKBAND?
+Modem reboot ➜ AT+CFUN=1,1;AT+CFUN=1,1
+```
+
+</details>
+
 ``` bash
 LuCI packages available in the image at this time:
 luci-app-3ginfo-lite
