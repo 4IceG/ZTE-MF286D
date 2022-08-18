@@ -64,8 +64,11 @@ Modem reboot ➜ AT+CFUN=1,1;AT+CFUN=1,1
 
 </details>
 
+### LuCI packages available in the image:
+<details>
+   <summary>Pokaż | Show me</summary>
+   
 ``` bash
-LuCI packages available in the image at this time:
 luci-app-3ginfo-lite
 luci-app-adblock
 luci-app-atinout-mod
@@ -79,6 +82,7 @@ luci-app-ksmbd
 luci-app-lite-watchdog
 luci-app-minidlna
 luci-app-modemband
+luci-app-nft-qos
 luci-app-openvpn
 luci-app-opkg
 luci-app-p910nd
@@ -89,3 +93,4 @@ luci-app-wifischedule
 luci-app-wireguard
 luci-app-wrtbwmon
 ```
+</details>
