@@ -12,7 +12,7 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 
 
 
-### Internet connection setup | Change of apn for mobile internet operator
+#### Internet connection setup | Change of apn for mobile internet operator
 <details>
    <summary>Pokaż | Show me</summary>
     We go in the menu to Network \ Interfaces.
@@ -43,7 +43,7 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 
 </details>
 
-### Useful AT commands (also available in the built image)
+#### Useful AT commands (also available in the built image)
 <details>
    <summary>Pokaż | Show me</summary>
    
@@ -64,7 +64,7 @@ Modem reboot ➜ AT+CFUN=1,1;AT+CFUN=1,1
 
 </details>
 
-### LuCI packages available in the image:
+#### LuCI packages available in the image:
 <details>
    <summary>Pokaż | Show me</summary>
    
