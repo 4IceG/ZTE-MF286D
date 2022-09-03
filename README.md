@@ -6,10 +6,12 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 ![GitHub forks](https://img.shields.io/github/forks/4IceG/ZTE-MF286D?style=flat-square)
 ![GitHub All Releases](https://img.shields.io/github/downloads/4IceG/ZTE-MF286D/total)
 
+### What You Should Know
 > I added presets for my packages (luci-app-3ginfo-lite/luci-app-sms-tool/luci-app-lite-watchdog).
 
 > All you need to do is change the apn (for qmi in LuCI) and set up wi-fi/passwords.
 
+> Notification option for luci-app-smstool package does not work, needs to be rewritten to support procd.
 
 
 #### Internet connection setup | Change of apn for mobile internet operator
