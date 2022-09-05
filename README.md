@@ -11,7 +11,7 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 
 > All you need to do is change the apn (for qmi in LuCI) and set up wi-fi/passwords.
 
-> Notification option for luci-app-smstool package does not work, needs to be rewritten to support procd.
+> Notification option for luci-app-sms-tool package does not work, needs to be rewritten to support procd.
 
 
 #### Internet connection setup | Change of apn for mobile internet operator
