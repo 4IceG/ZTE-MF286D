@@ -13,6 +13,9 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 
 > The LED notification option in luci-app-sms-tool is not working, need to be rewritten to handle procd.
 
+> Main theme: Bootstrap.
+
+> Language packs: English and Polish. (I can add other languages, but this will require translating my packages / add-ons).
 
 #### Internet connection setup | Change of apn for mobile internet operator
 <details>
