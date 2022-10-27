@@ -59,6 +59,12 @@ APN apply ➜ AT+CGACT=1,1;AT+CGACT=1,1
 Cell lock info ➜ AT+ZLOCKCELL?;AT+ZLOCKCELL?
 Cell lock disabled ➜ AT+ZLOCKCELL=0;AT+ZLOCKCELL=0
 Cell lock ➜ AT+ZLOCKCELL=earfcn_tag,pci_tag;AT+ZLOCKCELL=AAAA,BBB
+Mode Info ➜ AT+ZSNT?;AT+ZSNT?
+Prefer 4G (Blue LED blinks) ➜ AT+ZSNT=0,0,0;AT+ZSNT=0,0,0
+4G/3G only ➜ AT+ZSNT=7,0,0;AT+ZSNT=7,0,0
+4G only ➜ AT+ZSNT=6,0,0;AT+ZSNT=6,0,0
+3G only (LED turns green) ➜ AT+ZSNT=2,0,0;AT+ZSNT=2,0,0
+2G only (LED turns red) ➜ AT+ZSNT=1,0,0;AT+ZSNT=1,0,0
 DL CA info ➜ AT+ZCAINFO?;AT+ZCAINFO?
 UL CA info ➜ AT+ZULCA?;AT+ZULCA?
 UL CA disabled ➜ AT+ZULCA=0;AT+ZULCA=0
