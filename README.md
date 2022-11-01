@@ -6,16 +6,21 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 ![GitHub forks](https://img.shields.io/github/forks/4IceG/ZTE-MF286D?style=flat-square)
 ![GitHub All Releases](https://img.shields.io/github/downloads/4IceG/ZTE-MF286D/total)
 
-### What You Should Know
-> I added presets for my packages (luci-app-3ginfo-lite/luci-app-sms-tool/luci-app-lite-watchdog).
+### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> What You Should Know / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Co powinieneś wiedzieć
+> I added presets for my packages (luci-app-3ginfo-lite/luci-app-sms-tool/luci-app-lite-watchdog).   
+> Dodałem ustawienia do moich pakietów (luci-app-3ginfo-lite/luci-app-sms-tool/luci-app-lite-watchdog).
 
-> All you need to do is change the apn (for qmi in LuCI) and set up wi-fi/passwords.
+> All you need to do is change the apn (for qmi in LuCI) and set up wi-fi/passwords.   
+> Wszystko, co musisz zrobić, to zmienić apn (dla qmi w LuCI) i skonfigurować Wi-Fi/hasła.
 
-> The LED notification option in luci-app-sms-tool is not working, need to be rewritten to handle procd.
+> The LED notification option in luci-app-sms-tool is not working, need to be rewritten to handle procd.   
+> Opcja powiadomienia LED w pakiecie luci-app-sms-tool nie działa, czeka na przepisanie, aby obsługiwała procd.
 
-> Main theme: Bootstrap.
+> Main theme: Bootstrap.   
+> Główny motyw: Bootstrap.
 
-> Language packs: English and Polish. (I can add other languages, but this will require translating my packages / add-ons).
+> Language packs: English and Polish. (I can add other languages, but this will require translating my packages / add-ons).   
+> Pakiety językowe: angielski i polski. (Mogę dodać inne języki, ale będzie to wymagało przetłumaczenia moich pakietów/dodatków).
 
 #### Internet connection setup | Change of apn for mobile internet operator
 <details>
