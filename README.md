@@ -93,6 +93,7 @@ luci-app-ksmbd
 luci-app-lite-watchdog
 luci-app-minidlna
 luci-app-modemband
+luci-app-mwan3
 luci-app-nft-qos
 luci-app-openvpn
 luci-app-opkg
