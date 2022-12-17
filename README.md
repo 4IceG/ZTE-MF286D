@@ -92,7 +92,7 @@ Modem reboot ➜ AT+CFUN=1,1;AT+CFUN=1,1
 ``` bash
 luci-app-3ginfo-lite
 luci-app-adblock
-luci-app-atinout-mod
+luci-app-atcommands
 luci-app-commands
 luci-app-cpu-status-mini
 luci-app-ddns
