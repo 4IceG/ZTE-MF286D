@@ -18,8 +18,8 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 > All you need to do is change the apn (for qmi in LuCI) and set up wi-fi/passwords.   
 > Wszystko, co musisz zrobić, to zmienić apn (dla qmi w LuCI) i skonfigurować Wi-Fi/hasła.
 
-> The LED notification option in luci-app-sms-tool is not working, need to be rewritten to handle procd.   
-> Opcja powiadomienia LED w pakiecie luci-app-sms-tool nie działa, czeka na przepisanie, aby obsługiwała procd.
+> The LED notification option in luci-app-sms-tool-js is not available yet. At the moment, I have moved only basic functionality from Lua to LuCI JS.   
+> Opcja powiadomienia LED w pakiecie luci-app-sms-tool-js nie jest jeszcze dostępna. Na ten moment z Lua do LuCI JS przeniosłem tylko podstawową funkcjonalność.
 
 > Main theme: Bootstrap.   
 > Główny motyw: Bootstrap.
@@ -108,7 +108,7 @@ luci-app-nft-qos
 luci-app-openvpn
 luci-app-opkg
 luci-app-p910nd
-luci-app-sms-tool
+luci-app-sms-tool-js
 luci-app-vpnbypass
 luci-app-watchcat
 luci-app-wifischedule
