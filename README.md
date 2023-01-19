@@ -12,14 +12,11 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 ![GitHub All Releases](https://img.shields.io/github/downloads/4IceG/ZTE-MF286D/total)
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> What You Should Know / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Co powinieneś wiedzieć
-> I added presets for my packages (luci-app-3ginfo-lite/luci-app-sms-tool/luci-app-lite-watchdog).   
-> Dodałem ustawienia dla moich pakietów (luci-app-3ginfo-lite/luci-app-sms-tool/luci-app-lite-watchdog).
+> I added presets for my packages (luci-app-3ginfo-lite/luci-app-sms-tool-js/luci-app-lite-watchdog).   
+> Dodałem ustawienia dla moich pakietów (luci-app-3ginfo-lite/luci-app-sms-tool-js/luci-app-lite-watchdog).
 
 > All you need to do is change the apn (for qmi in LuCI) and set up wi-fi/passwords.   
 > Wszystko, co musisz zrobić, to zmienić apn (dla qmi w LuCI) i skonfigurować Wi-Fi/hasła.
-
-> The LED notification option in luci-app-sms-tool-js is not available yet. At the moment, I have moved only basic functionality from Lua to LuCI JS.   
-> Opcja powiadomienia LED w pakiecie luci-app-sms-tool-js nie jest jeszcze dostępna. Na ten moment z Lua do LuCI JS przeniosłem tylko podstawową funkcjonalność.
 
 > Main theme: Bootstrap.   
 > Główny motyw: Bootstrap.
