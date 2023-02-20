@@ -12,6 +12,12 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 ![GitHub All Releases](https://img.shields.io/github/downloads/4IceG/ZTE-MF286D/total)
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> What You Should Know / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Co powinieneś wiedzieć
+
+> I don't provide the full build repository, so it's not possible to update/install packages.   
+(I'm looking for a free hosting where I could easily host/share a repository. Maybe, you know one?)   
+> Nie udostępniam pełnego repozytorium z kompilacji, więc nie jest możliwa aktualizacja/instalacja pakietów.   
+(Poszukuję bezpłatnego hostingu, na którym mógłbym łatwo umieszczać/udostępniać repozytorium. Może, taki znasz?)
+
 > I added presets for my packages (luci-app-3ginfo-lite/luci-app-sms-tool-js/luci-app-lite-watchdog).   
 > Dodałem ustawienia dla moich pakietów (luci-app-3ginfo-lite/luci-app-sms-tool-js/luci-app-lite-watchdog).
 
