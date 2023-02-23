@@ -27,6 +27,9 @@ P.S. Poszukuję bezpłatnego hostingu, na którym mógłbym łatwo umieszczać/u
 > Main theme: Bootstrap.   
 > Główny motyw: Bootstrap.
 
+> I changed the minidlna icon.   
+> Zmieniłem ikonę minidlna.
+
 > Language packs: English and Polish. (I can add other languages, but this will require translating my packages / add-ons).   
 > Pakiety językowe: angielski i polski. (Mogę dodać inne języki, ale będzie to wymagało przetłumaczenia moich pakietów/dodatków).
 
@@ -95,6 +98,7 @@ Modem reboot ➜ AT+CFUN=1,1;AT+CFUN=1,1
 ``` bash
 luci-app-3ginfo-lite
 luci-app-adblock
+luci-app-aria2
 luci-app-atcommands
 luci-app-commands
 luci-app-cpu-status-mini
@@ -103,6 +107,7 @@ luci-app-ekooneplstat
 luci-app-firewall
 luci-app-internet-detector
 luci-app-ksmbd
+luci-app-ledcontrol
 luci-app-lite-watchdog
 luci-app-minidlna
 luci-app-modemband
@@ -112,10 +117,8 @@ luci-app-openvpn
 luci-app-opkg
 luci-app-p910nd
 luci-app-sms-tool-js
-luci-app-vpnbypass
-luci-app-watchcat
 luci-app-wifischedule
-luci-app-wireguard
 luci-app-wrtbwmon
+luci-proto-wireguard
 ```
 </details>
