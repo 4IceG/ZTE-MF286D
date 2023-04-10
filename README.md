@@ -18,6 +18,9 @@ P.S. I'm looking for a free hosting where I could easily host/share a repository
 > Nie udostępniam pełnego repozytorium z kompilacji, więc nie jest możliwa aktualizacja/instalacja pakietów.   
 P.S. Poszukuję bezpłatnego hostingu, na którym mógłbym łatwo umieszczać/udostępniać repozytorium. Może, taki znasz?
 
+> Shared generic packages from the compilation, this may make it easier to install additional packages.   
+> Udostępniłem pakiety generic z kompilacji, może to ułatwić instalację dodatkowych pakietów.
+
 > I added presets for my packages (luci-app-3ginfo-lite/luci-app-sms-tool-js/luci-app-lite-watchdog).   
 > Dodałem ustawienia dla moich pakietów (luci-app-3ginfo-lite/luci-app-sms-tool-js/luci-app-lite-watchdog).
 
