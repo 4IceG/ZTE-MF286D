@@ -13,16 +13,11 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 
 ### <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_United_Kingdom.png" height="24"> What You Should Know / <img src="https://raw.githubusercontent.com/4IceG/Personal_data/master/dooffy_design_icons_EU_flags_Poland.png" height="24"> Co powinieneś wiedzieć
 
-> I don't provide the full build repository, so it's not possible to update/install packages.   
-P.S. I'm looking for a free hosting where I could easily host/share a repository. Maybe, you know one?   
-> Nie udostępniam pełnego repozytorium z kompilacji, więc nie jest możliwa aktualizacja/instalacja pakietów.   
-P.S. Poszukuję bezpłatnego hostingu, na którym mógłbym łatwo umieszczać/udostępniać repozytorium. Może, taki znasz?
+> Snapshots are built daily, and that sets time limits to installing new packages with opkg. Due to kernel version checksums, you can only install “kmod” kernel modules and other kernel version dependent modules from the exactly same snapshot build. So, a few hours after flashing the firmware you may not be able to install new modules with opkg any more (as the next snapshot has been built into the download repo and has different checksums).   
+> Obrazy snapshots budowane są codziennie, a to ustawia limity czasowe na instalację nowych pakietów za pomocą opkg. Z powodu sum kontrolnych wersji jądra, możesz zainstalować tylko moduły "kmod" i inne moduły zależne od wersji jądra z dokładnie tego samego snapshotu. Tak więc, kilka godzin po flashowaniu firmware możesz nie być w stanie zainstalować nowych modułów za pomocą opkg (ponieważ następny snapshot został wbudowany w repo i ma inne sumy kontrolne).
 
 > Shared generic packages from the compilation, this may make it easier to install additional packages.   
 > Udostępniłem pakiety generic z kompilacji, może to ułatwić instalację dodatkowych pakietów.
-
-> I added presets for my packages (luci-app-3ginfo-lite/luci-app-sms-tool-js/luci-app-lite-watchdog).   
-> Dodałem ustawienia dla moich pakietów (luci-app-3ginfo-lite/luci-app-sms-tool-js/luci-app-lite-watchdog).
 
 > All you need to do is change the apn (for qmi in LuCI) and set up wi-fi/passwords.   
 > Wszystko, co musisz zrobić, to zmienić apn (dla qmi w LuCI) i skonfigurować Wi-Fi/hasła.
@@ -106,6 +101,7 @@ luci-app-atcommands
 luci-app-commands
 luci-app-cpu-status-mini
 luci-app-ddns
+luci-app-drive-status-mini
 luci-app-ekooneplstat
 luci-app-firewall
 luci-app-internet-detector
