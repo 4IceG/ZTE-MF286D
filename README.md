@@ -22,8 +22,8 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 > Main theme: Bootstrap.   
 > Główny motyw: Bootstrap.
 
-> I changed the minidlna icon.   
-> Zmieniłem ikonę minidlna.
+> I changed the minidlna, lan ports, wi-fi, signal levels icons.   
+> Zmieniłem ikony dla minidlna, portów lan, wi-fi, poziomów sygnału.
 
 > Language packs: English and Polish. (I can add other languages, but this will require translating my packages / add-ons).   
 > Pakiety językowe: angielski i polski. (Mogę dodać inne języki, ale będzie to wymagało przetłumaczenia moich pakietów/dodatków).
