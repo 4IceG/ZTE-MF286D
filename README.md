@@ -16,9 +16,6 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 > Snapshots are built daily, and that sets time limits to installing new packages with opkg. Due to kernel version checksums, you can only install “kmod” kernel modules and other kernel version dependent modules from the exactly same snapshot build. So, a few hours after flashing the firmware you may not be able to install new modules with opkg any more (as the next snapshot has been built into the download repo and has different checksums).   
 > Obrazy snapshots budowane są codziennie, a to ustawia limity czasowe na instalację nowych pakietów za pomocą opkg. Z powodu sum kontrolnych wersji jądra, możesz zainstalować tylko moduły "kmod" i inne moduły zależne od wersji jądra z dokładnie tego samego snapshotu. Tak więc, kilka godzin po flashowaniu firmware możesz nie być w stanie zainstalować nowych modułów za pomocą opkg (ponieważ następny snapshot został wbudowany w repo i ma inne sumy kontrolne).
 
-> Shared generic packages from the compilation, this may make it easier to install additional packages.   
-> Udostępniłem pakiety generic z kompilacji, może to ułatwić instalację dodatkowych pakietów.
-
 > All you need to do is change the apn (for qmi in LuCI) and set up wi-fi/passwords.   
 > Wszystko, co musisz zrobić, to zmienić apn (dla qmi w LuCI) i skonfigurować Wi-Fi/hasła.
 
