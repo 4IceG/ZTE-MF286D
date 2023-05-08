@@ -34,7 +34,7 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 ![](https://github.com/4IceG/Personal_data/blob/master/nicons.PNG?raw=true)
 </details>
 
-> At the moment there is a problem with the replacement of the minidln icon. Package version 1.3.2 does not show my icon (I am looking for a solution).   
+> At the moment there is a problem with the replacement of the minidlna icon. Package version 1.3.2 does not show my icon (I am looking for a solution).   
 > Na ten moment jest problem z podmianą ikony minidlna. Pakiet w wersji 1.3.2 nie pokazuje mojej ikony (poszukuję rozwiązania).
 
 + #### Languages added to image / Języki dodane do obrazu
