@@ -55,7 +55,7 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
    
    > Enter the apn name of internet provider and click save.
    
-   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorialsm/3.PNG?raw=true)
+   ![](https://github.com/4IceG/Personal_data/blob/master/zrzuty/apntutorialsm/3b.PNG?raw=true)
    
    > If after changing the apn we do not have internet, we have to manually set the apn in the modem. 
    To do this, go to the Modem \ SMS Messages menu.
