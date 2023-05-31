@@ -26,16 +26,15 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Master
 > Główny motyw: Bootstrap.
 
 + #### My modifications / Moje modyfikacje
-> I changed the lan ports, wi-fi, signal levels icons.   
-> Zmieniłem ikony dla portów lan, wi-fi, poziomów sygnału.
+> I changed the miniDLNA, lan ports, wi-fi, signal levels icons.   
+> Zmieniłem ikony dla miniDLNA, portów lan, wi-fi, poziomów sygnału.
 <details>
    <summary>Pokaż | Show me</summary>
    
 ![](https://github.com/4IceG/Personal_data/blob/master/nicons.PNG?raw=true)
+   
+![](https://github.com/4IceG/Personal_data/blob/master/MF286D.PNG?raw=true=true)
 </details>
-
-> At the moment there is a problem with the replacement of the minidlna icon. Package version 1.3.2 does not show my icon (I am looking for a solution).   
-> Na ten moment jest problem z podmianą ikony minidlna. Pakiet w wersji 1.3.2 nie pokazuje mojej ikony (poszukuję rozwiązania).
 
 + #### Languages added to image / Języki dodane do obrazu
 > Language packs: English and Polish. (I can add other languages, but this will require translating my packages / add-ons).   
