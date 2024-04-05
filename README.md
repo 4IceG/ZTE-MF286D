@@ -112,6 +112,7 @@ luci-app-commands
 luci-app-cpu-status-mini
 luci-app-ddns
 luci-app-drive-status-mini
+luci-app-easyconfig-transfer
 luci-app-ekooneplstat
 luci-app-firewall
 luci-app-internet-detector
@@ -127,7 +128,6 @@ luci-app-opkg
 luci-app-p910nd
 luci-app-sms-tool-js
 luci-app-wifischedule
-luci-app-wrtbwmon
 luci-proto-wireguard
 ```
 </details>
