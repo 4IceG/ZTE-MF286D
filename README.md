@@ -31,8 +31,6 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Main
 <details>
    <summary>Pokaż | Show me</summary>
    
-![](https://github.com/4IceG/Personal_data/blob/master/nicons.PNG?raw=true)
-   
 ![](https://github.com/4IceG/Personal_data/blob/master/MF286D.PNG?raw=true=true)
 </details>
 
