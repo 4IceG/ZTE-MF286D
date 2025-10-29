@@ -104,30 +104,6 @@ Modem reboot ➜ AT+CFUN=1,1;AT+CFUN=1,1
    <summary>Pokaż | Show me</summary>
    
 ``` bash
-luci-app-3ginfo-lite
-luci-app-adblock
-luci-app-aria2
-luci-app-atcommands
-luci-app-commands
-luci-app-cpu-status-mini
-luci-app-ddns
-luci-app-drive-status-mini
-luci-app-easyconfig-transfer
-luci-app-ekooneplstat
-luci-app-firewall
-luci-app-internet-detector
-luci-app-ksmbd
-luci-app-ledcontrol
-luci-app-lite-watchdog
-luci-app-minidlna
-luci-app-modemband
-luci-app-mwan3
-luci-app-nft-qos
-luci-app-openvpn
-luci-app-opkg
-luci-app-p910nd
-luci-app-sms-tool-js
-luci-app-wifischedule
-luci-proto-wireguard
+List coming soon..
 ```
 </details>
