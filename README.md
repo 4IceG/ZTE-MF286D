@@ -37,8 +37,8 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Main
 </details>
 
 + #### Languages added to image / Języki dodane do obrazu
-> Language packs: English and Polish. (I can add other languages, but this will require translating my packages / add-ons).   
-> Pakiety językowe: angielski i polski. (Mogę dodać inne języki, ale będzie to wymagało przetłumaczenia moich pakietów/dodatków).
+> Language packs: German, English, Italian, Polish, Russian, Vietnamese, Simplified Chinese  
+> Pakiety językowe: Niemiecki, Angielski, Włoski, Polski, Rosyjski, Wietnamski, Chiński.
 
 ### 2. Internet connection setup | Change of apn for mobile internet operator
 <details>
