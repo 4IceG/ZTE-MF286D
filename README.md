@@ -18,16 +18,16 @@ My compilation :: user friendly :: OpenWrt SNAPSHOT / LuCI Main
 > Obrazy snapshots budowane są codziennie, a to ustawia limity czasowe na instalację nowych pakietów za pomocą opkg. Z powodu sum kontrolnych wersji jądra, możesz zainstalować tylko moduły "kmod" i inne moduły zależne od wersji jądra z dokładnie tego samego snapshotu. Tak więc, kilka godzin po flashowaniu firmware możesz nie być w stanie zainstalować nowych modułów za pomocą opkg (ponieważ następny snapshot został wbudowany w repo i ma inne sumy kontrolne).
 
 + #### User's own configuration / Konfiguracja przez użytkownika
-> All you need to do is change the apn (for qmi in LuCI) and set up wi-fi/passwords.   
-> Wszystko, co musisz zrobić, to zmienić apn (dla qmi w LuCI) i skonfigurować Wi-Fi/hasła.
+> Router requires user to check the configuration and optionally enable packages for transfer statistics and watchdog.   
+> Router wymaga sprawdzenia konfiguracji przez użytkownika i opcjonalnego włączenia pakietów do statystyk transferu oraz watchdoga.
 
 + #### LuCI theme / Motyw LuCI
 > Main theme: Bootstrap.   
 > Główny motyw: Bootstrap.
 
 + #### My modifications / Moje modyfikacje
-> I changed the miniDLNA, lan ports, wi-fi, signal levels icons.   
-> Zmieniłem ikony dla miniDLNA, portów lan, wi-fi, poziomów sygnału.
+> I changed the miniDLNA icon.   
+> Zmieniłem ikonę dla miniDLNA.
 <details>
    <summary>Pokaż | Show me</summary>
    
